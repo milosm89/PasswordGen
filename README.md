@@ -1,2 +1,2 @@
-# PasswordGen
+# Password generator 
 Password generator schell script
